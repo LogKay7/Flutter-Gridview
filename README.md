@@ -1,6 +1,6 @@
 # flutter_app_gridview
 
-Découverte des Gridview
+Small mobile app project in Flutter to demonstrate the Gridview widget
 
 ## Getting Started
 
